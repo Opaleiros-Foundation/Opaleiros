@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="804b3d09-80c4-4883-9272-1735b92c0357" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zencoder-chat-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zencoder-chat-index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/videos/background-video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/public/videos/background-video.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +46,7 @@
     "RunOnceActivity.zencoder-patch-migrate-custom-instruction": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/matheusvictor/Documents/jsProjects/Opaleiros/public/favicons",
+    "last_opened_file_path": "/home/matheusvictor/Documents/jsProjects/Opaleiros/public/videos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +58,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/videos" />
+      <recent name="$PROJECT_DIR$/public/imgs" />
       <recent name="$PROJECT_DIR$/public/favicons" />
     </key>
   </component>
@@ -64,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751245269486</updated>
-      <workItem from="1751245270806" duration="2286000" />
+      <workItem from="1751245270806" duration="8583000" />
     </task>
     <servers />
   </component>
@@ -88,15 +101,20 @@
   <component name="ai.zencoder.plugin.rag.state">
     <option name="indexedFilesMap">
       <map>
-        <entry key="$PROJECT_DIR$/index.html" value="1751247549880" />
+        <entry key="$PROJECT_DIR$/.gitignore" value="1751251317155" />
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml" value="1751253550599" />
+        <entry key="$PROJECT_DIR$/.idea/zencoder-chat-index.xml" value="1751251449910" />
+        <entry key="$PROJECT_DIR$/index.html" value="1751251749931" />
         <entry key="$PROJECT_DIR$/package.json" value="1751245749921" />
+        <entry key="$PROJECT_DIR$/public/style/index.css" value="1751251749931" />
+        <entry key="$PROJECT_DIR$/public/videos/background-video.mp4" value="1751253550599" />
         <entry key="$PROJECT_DIR$/src/scss/layout/_layout.scss" value="9223372036854775807" />
       </map>
     </option>
-    <option name="lastCommitHash" value="3acb60819632b50ff37bddc355327ce7fb0ecb00" />
-    <option name="lastIndexTimestamp" value="1751247549880" />
-    <option name="repoAccumulatedChanges" value="4" />
-    <option name="repoTotalFiles" value="5" />
+    <option name="lastCommitHash" value="1971d6bae741502484833e9b8bae51983e7d7079" />
+    <option name="lastIndexTimestamp" value="1751253550599" />
+    <option name="repoAccumulatedChanges" value="8" />
+    <option name="repoTotalFiles" value="9" />
     <option name="repositoryId" value="3cc1769b-b95d-4388-b55d-1d0505f7c23a" />
     <option name="state" value="FULLY_INDEXED" />
   </component>
